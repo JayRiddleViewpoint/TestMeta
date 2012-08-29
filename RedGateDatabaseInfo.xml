@@ -48,7 +48,12 @@
     <DataWriteAllFilesInOneDirectory>true</DataWriteAllFilesInOneDirectory>
   </WriteToFileOptions>
   <DataFileSet>
-    <Count>1</Count>
+    <Count>6</Count>
     <DataFile>Person.AddressType_Data.sql</DataFile>
+    <DataFile>Person.ContactType_Data.sql</DataFile>
+    <DataFile>Person.PhoneNumberType_Data.sql</DataFile>
+    <DataFile>Production.Location_Data.sql</DataFile>
+    <DataFile>Sales.SalesTerritory_Data.sql</DataFile>
+    <DataFile>Person.StateProvince_Data.sql</DataFile>
   </DataFileSet>
 </DatabaseInformation>
