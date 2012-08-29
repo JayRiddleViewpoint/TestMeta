@@ -6,5 +6,5 @@ INSERT INTO [Person].[AddressType] ([AddressTypeID], [Name], [rowguid], [Modifie
 INSERT INTO [Person].[AddressType] ([AddressTypeID], [Name], [rowguid], [ModifiedDate]) VALUES (5, N'Shipping', 'b29da3f8-19a3-47da-9daa-15c84f4a83a5', '2002-06-01 00:00:00.000')
 SET IDENTITY_INSERT [Person].[AddressType] OFF
 SET IDENTITY_INSERT [Person].[AddressType] ON
-INSERT INTO [Person].[AddressType] ([AddressTypeID], [Name], [rowguid], [ModifiedDate]) VALUES (6, N'Archive-test2', 'a67f238a-5ba2-444b-966c-0467ed9c427f', '2002-06-01 00:00:00.000')
+INSERT INTO [Person].[AddressType] ([AddressTypeID], [Name], [rowguid], [ModifiedDate]) VALUES (6, N'Archive-test5', 'a67f238a-5ba2-444b-966c-0467ed9c427f', '2002-06-01 00:00:00.000')
 SET IDENTITY_INSERT [Person].[AddressType] OFF
